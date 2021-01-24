@@ -1,3 +1,2 @@
 Mencoba Github  
-  biar cepet paham
-  membuat aplikasi pertama
+ 1. membuat aplikasi pertama
