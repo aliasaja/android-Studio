@@ -1,2 +1,3 @@
 Mencoba Github  
  1. membuat aplikasi pertama
+ 2. istirahat
